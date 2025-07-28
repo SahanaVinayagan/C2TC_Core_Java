@@ -1,0 +1,26 @@
+# Ignore compiled class files
+*.class
+
+# Ignore packaged JAR, WAR, and log files
+*.jar
+*.war
+*.log
+
+# Ignore CSV files if generated
+*.csv
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore output folders
+bin/
+target/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
